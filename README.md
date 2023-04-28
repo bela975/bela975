@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me!
 i'm currently working on a web app application to <br>optimize the day to day life of pet owners :)<br><br>fun fact: i have 7 pets!
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabela-spinelli-687051248/) 
 
 # 💻 Tech Stack:
