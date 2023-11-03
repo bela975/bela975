@@ -2,7 +2,7 @@
 Hi, i'm bela!<br> • Brazilian develope🇷<br>• Computer science undergraduate at CESAR School<br>• Game development enthusiast🤩
 
 
-i'm currently working on a web app application to optimize the day to<br>day life of pet owners :)<br><br>fun fact: i have 7 pets🐱🐶🐦!
+i'm currently working on a snake game implemented in the c language!
 
 
 ## 💬 How to reach me:
