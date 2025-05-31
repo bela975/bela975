@@ -1,5 +1,5 @@
 # 🤗 About Me:
-Hi, i'm bela!<br> • Brazilian develope🇷<br>• Computer science undergraduate at CESAR School<br>• Game development enthusiast🤩
+Hi, i'm bela!<br> • Brazilian develope🇷<br>• Computer science undergraduate at CESAR School<br>
 
 
 
